@@ -11,6 +11,7 @@ public class GugudanClass {
 
     public static void print(int[] resultNum) {
         for (int i = 0; i < resultNum.length;i++) {
+            System.out.println("test");
             System.out.println(resultNum[i]);
         }
     }
