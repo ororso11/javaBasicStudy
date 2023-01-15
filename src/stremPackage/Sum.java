@@ -1,3 +1,5 @@
+package stremPackage;
+
 import java.util.Scanner;
 
 public class Sum {
@@ -8,7 +10,7 @@ public class Sum {
         Scanner scanner = new Scanner(System.in);
         int num1 = scanner.nextInt();
         int num2 = scanner.nextInt();
-
+        scanner.close();
         System.out.println(SumMethod.sum(num1,num2));
 
     }

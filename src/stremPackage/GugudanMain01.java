@@ -1,3 +1,5 @@
+package stremPackage;
+
 import java.util.Scanner;
 
 public class GugudanMain01 {

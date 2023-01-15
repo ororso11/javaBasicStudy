@@ -1,3 +1,5 @@
+package stremPackage;
+
 public class GugudanClass {
 
     public static int[] cal( int i1, int i2, int i3 ) {
